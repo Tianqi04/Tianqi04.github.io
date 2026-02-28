@@ -40,11 +40,11 @@ I am a third-year undergraduate student majoring in Software Engineering at Sich
   </div>
   <div class='paper-box-text' markdown="1">
 
-[CNM-UNet: Continuous Ordinary Differential Equations for Medical Image Segmentation](files/CNM-UNet_paper.pdf)
+[CNM-UNet: Continuous Ordinary Differential Equations for Medical Image Segmentation](files/CNM-UNet_poster.pdf)
 
 **Tianqi Xu**, Yashi Zhu, Quansong He, Yue Cao, Kaishen Wang, Zhang Yi, Tao He
 
-[**Paper**](files/CNM-UNet_paper.pdf) | [**Code**](https://github.com/Tianqi04/CNM-UNet)
+[**Paper**](files/CNM-UNet_paper.pdf) | [**Code**](https://github.com/Tianqi04/CNM-UNet) | [**Poster**](files/CNM-UNet_paper.png)
 
 - Proposed CNM-UNet, which replaces vanilla hierarchical decoders with a single Continuous Neural Memory ODEs Block to reduce computational overhead.
 - Leveraged Neural Memory ODEs (nmODEs) for continuous-time feature extraction, achieving precise data distribution modeling.
