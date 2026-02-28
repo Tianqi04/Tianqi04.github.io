@@ -38,7 +38,7 @@ I am a third-year undergraduate student majoring in Software Engineering at Sich
 
 **Tianqi Xu**, Yashi Zhu, Quansong He, Yue Cao, Kaishen Wang, Zhang Yi, Tao He
 
-[**Project**](https://github.com/Tianqi04/CNM-UNet) | [**Paper**](files/CNM-UNet_paper.pdf)
+[**Paper**](files/CNM-UNet_paper.pdf) | [**Code**](https://github.com/Tianqi04/CNM-UNet)
 
 - Proposed CNM-UNet, which replaces vanilla hierarchical decoders with a single Continuous Neural Memory ODEs Block to reduce computational overhead.
 - Leveraged Neural Memory ODEs (nmODEs) for continuous-time feature extraction, achieving precise data distribution modeling.
@@ -50,3 +50,6 @@ I am a third-year undergraduate student majoring in Software Engineering at Sich
 - *2023-2025* Merit Student Award (Consecutive 2 Years), Sichuan University. 
 - *2023--2024* Second-class Comprehensive Academic Scholarship (Top 6%), Sichuan University.
 - *2024--2025* Third-class Comprehensive Academic Scholarship (Top 15%), Sichuan University.
+
+---
+> Thanks to [RayeRen](https://github.com/RayeRen/acad-homepage.github.io) for the template.
