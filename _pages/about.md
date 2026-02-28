@@ -26,7 +26,7 @@ I am a third-year undergraduate student majoring in Software Engineering at Sich
 
 
 # 🔥 News
-- Jan. 2026: Attended AAAI 2026 in Singapore on behalf of our team to deliver a poster presentation for CNM-UNet.
+- Jan. 20–27, 2026: Attended AAAI 2026 in Singapore on behalf of our team to deliver a poster presentation for CNM-UNet.
 - Nov. 2025: Our work CNM-UNet is accepted at AAAI 2026. 
 
 # 📝 Publications 
