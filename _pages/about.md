@@ -21,8 +21,8 @@ redirect_from:
 
 I am a third-year undergraduate student majoring in Software Engineering at Sichuan University, where I am fortunate to be supervised by [Prof. Tao He](https://ithet1007.github.io/). My current research focuses on leveraging Ordinary Differential Equations (ODEs) and Test-Time Adaptation (TTA) to enhance the modeling precision and generalization of deep learning models, particularly in the domain of medical image segmentation. Driven by a strong commitment to pursuing a Ph.D., my long-term research interests lie in Embodied AI and World Models. 
 
+**Email**:xutianqi@stu.scu.edu.cn  
 [**[CV]**](files/CV.pdf)
-**Email**:xutianqi@stu.scu.edu.cn
 
 
 # 🔥 News
