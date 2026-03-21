@@ -9,7 +9,7 @@
 title                    : "Tianqi Xu"
 description              : "CS undergraduate student"
 repository               : "Tianqi04/Tianqi04.github.io"
-google_scholar_stats_use_cdn : "https://scholar.google.com/citations?user=-y64GnYAAAAJ&hl=zh-CN"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -27,7 +27,7 @@ author:
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=-y64GnYAAAAJ&hl=zh-CN"
   email            : "xutianqi@stu.scu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
