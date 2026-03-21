@@ -40,9 +40,9 @@ I am a third-year undergraduate student majoring in Software Engineering at Sich
   </div>
   <div class='paper-box-text' markdown="1">
 
-[CNM-UNet: Continuous Ordinary Differential Equations for Medical Image Segmentation](files/CNM-UNet_poster.pdf)
-
+### [CNM-UNet: Continuous Ordinary Differential Equations for Medical Image Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/38122)
 **Tianqi Xu**, Yashi Zhu, Quansong He, Yue Cao, Kaishen Wang, Zhang Yi, Tao He
+*Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2026*
 
 [**Paper**](files/CNM-UNet_paper.pdf) | [**Code**](https://github.com/Tianqi04/CNM-UNet) | [**Poster**](files/CNM-UNet_poster.png)
 

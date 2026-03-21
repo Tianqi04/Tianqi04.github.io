@@ -9,7 +9,7 @@
 title                    : "Tianqi Xu"
 description              : "CS undergraduate student"
 repository               : "Tianqi04/Tianqi04.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : "https://scholar.google.com/citations?user=-y64GnYAAAAJ&hl=zh-CN"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tianqi Xu"
-  avatar           : "images/Tianqi.jpg"
+  avatar           : "images/Tianqi_3.jpg"
   bio              : "Sichuan University"
   location         : "Chengdu, China"
   employer         :
