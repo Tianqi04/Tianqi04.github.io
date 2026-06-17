@@ -19,9 +19,9 @@ redirect_from:
 
 # About Me
 
-I am a third-year Software Engineering undergraduate at Sichuan University. Previously, supervised by [Prof. Tao He](https://ithet1007.github.io/) at Sichuan University, I explored Ordinary Differential Equations (ODEs) and Test-Time Adaptation (TTA) for robust medical image segmentation. Currently, I am a remote research intern with [Prof. Yuzhang Shang](https://42shawn.github.io/) at University of Central Florida, investigating how CoT reasoning and self-supervised RL can enhance the long-horizon capabilities of Vision-Language-Action (VLA) models.
+I am a third-year Software Engineering undergraduate at [**Sichuan University (SCU)**](http://www.scu.edu.cn/). Under the supervision of [Prof. Tao He](https://ithet1007.github.io/), I previously investigated robust medical image segmentation, with a focus on **Ordinary Differential Equations (ODEs)** and **Test-Time Adaptation (TTA)**. I am currently a remote research intern with [Prof. Yuzhang Shang](https://42shawn.github.io/) at [**University of Central Florida (UCF)**](https://www.ucf.edu/), where my interests center on **Vision-Language-Action (VLA)** models, particularly on enhancing their reasoning and generation capabilities.
 
-I am actively seeking Fall 2027 Ph.D. opportunities to further explore VLA and generalization.
+**I am actively seeking Fall 2027 Ph.D. opportunities to further explore VLA and generalization.**
 
 
 **Email**: xutianqi@stu.scu.edu.cn / tianqixu692@gmail.com
@@ -30,8 +30,8 @@ I am actively seeking Fall 2027 Ph.D. opportunities to further explore VLA and g
 
 
 # 🔥 News
-- Jan. 20–27, 2026: Attended AAAI 2026 in Singapore on behalf of our team to deliver a poster presentation for CNM-UNet.
-- Nov. 2025: Our work CNM-UNet is accepted at AAAI 2026. 
+- Jan. 20–27, 2026: Attended **AAAI 2026** in Singapore on behalf of our team to deliver a poster presentation for **CNM-UNet**.
+- Nov. 2025: Our work **CNM-UNet** is accepted at **AAAI 2026**. 
 
 # 📝 Publications 
 
@@ -57,9 +57,9 @@ I am actively seeking Fall 2027 Ph.D. opportunities to further explore VLA and g
 </div>
 
 # 🎖 Honors and Awards
-- *2023-2025* Merit Student Award (Consecutive 2 Years), Sichuan University. 
-- *2023--2024* Second-class Comprehensive Academic Scholarship (Top 6%), Sichuan University.
-- *2024--2025* Third-class Comprehensive Academic Scholarship (Top 15%), Sichuan University.
+- *2023-2025* **Merit Student Award** (Consecutive 2 Years), Sichuan University. 
+- *2023--2024* **Second-class Comprehensive Academic Scholarship** (Top 6%), Sichuan University.
+- *2024--2025* **Third-class Comprehensive Academic Scholarship** (Top 15%), Sichuan University.
 
 ---
 > Thanks to [RayeRen](https://github.com/RayeRen/acad-homepage.github.io) for the template.
