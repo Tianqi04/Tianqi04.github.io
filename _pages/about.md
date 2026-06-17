@@ -19,7 +19,9 @@ redirect_from:
 
 # About Me
 
-I am a third-year Software Engineering undergraduate at [**Sichuan University (SCU)**](http://www.scu.edu.cn/). Under the supervision of [**Prof. Tao He**](https://ithet1007.github.io/), I previously investigated robust medical image segmentation, with a focus on **Ordinary Differential Equations (ODEs)** and **Test-Time Adaptation (TTA)**. I am currently a remote research intern with [**Prof. Yuzhang Shang**](https://42shawn.github.io/) at [**University of Central Florida (UCF)**](https://www.ucf.edu/), where my interests center on **Vision-Language-Action (VLA)** models, particularly on enhancing their reasoning and generation capabilities.
+I am a third-year Software Engineering undergraduate at [**Sichuan University (SCU)**](http://www.scu.edu.cn/). Under the supervision of [**Prof. Tao He**](https://ithet1007.github.io/), I previously investigated robust medical image segmentation, with a focus on **Ordinary Differential Equations (ODEs)** and **Test-Time Adaptation (TTA)**.
+
+I am currently a remote research intern with [**Prof. Yuzhang Shang**](https://42shawn.github.io/) at [**University of Central Florida (UCF)**](https://www.ucf.edu/), where my interests center on **Vision-Language-Action (VLA)** models, particularly on enhancing their reasoning and generation capabilities.
 
 **I am actively seeking Fall 2027 Ph.D. opportunities to further explore VLA and generalization.**
 
