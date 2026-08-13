@@ -58,6 +58,22 @@ Currently, I am a remote research intern with [**Prof. Yuzhang Shang**](https://
 </div>
 </div>
 
+# 💼 Research Experience
+
+<div class='research-item'>
+  <div class='research-info'>
+    <h3><a href="https://www.ucf.edu/"><b>University of Central Florida (UCF)</b></a> – Research Intern <span class='period'>Mar. 2026 – Present</span></h3>
+    <p><b>Advisor</b>: <a href="https://42shawn.github.io/"><b>Prof. Yuzhang Shang</b></a> · Remote / Orlando, FL, USA</p>
+  </div>
+</div>
+
+<div class='research-item'>
+  <div class='research-info'>
+    <h3><a href="http://www.scu.edu.cn/"><b>Sichuan University (SCU)</b></a> – Research Intern <span class='period'>Sep. 2024 – Present</span></h3>
+    <p><b>Advisor</b>: <a href="https://ithet1007.github.io/"><b>Prof. Tao He</b></a> · Onsite / Chengdu, China</p>
+  </div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023-2025* **Merit Student Award** (Consecutive 2 Years), Sichuan University. 
 - *2023--2024* **Second-class Comprehensive Academic Scholarship** (Top 6%), Sichuan University.
