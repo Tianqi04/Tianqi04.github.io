@@ -136,5 +136,10 @@ h1:before, .anchor:before {
             font-size: $type-size-6;
             color: $text-color;
         }
+
+        p.location {
+            color: $gray;
+            font-size: $type-size-7;
+        }
     }
 }

@@ -28,8 +28,6 @@ Currently, I am a remote research intern with [**Prof. Yuzhang Shang**](https://
 
 **Email**: xutianqi@stu.scu.edu.cn / tianqixu692@gmail.com
 
-[**[CV]**](files/CV.pdf)
-
 
 # 🔥 News
 - Jan. 20–27, 2026: Attended **AAAI 2026** in Singapore on behalf of our team to deliver a poster presentation for **CNM-UNet**.
@@ -50,7 +48,7 @@ Currently, I am a remote research intern with [**Prof. Yuzhang Shang**](https://
 **Tianqi Xu**, Yashi Zhu, Quansong He, Yue Cao, Kaishen Wang, Zhang Yi, Tao He
 *Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2026*
 
-[**Paper**](files/CNM-UNet_paper.pdf) | [**Code**](https://github.com/Tianqi04/CNM-UNet) | [**Poster**](files/CNM-UNet_poster.png)
+[**Paper**](/_pages/files/CNM-UNet_paper.pdf) | [**Code**](https://github.com/Tianqi04/CNM-UNet) | [**Poster**](/_pages/files/CNM-UNet_poster.png)
 
 - Proposed CNM-UNet, which replaces vanilla hierarchical decoders with a single Continuous Neural Memory ODEs Block to reduce computational overhead.
 - Leveraged Neural Memory ODEs (nmODEs) for continuous-time feature extraction, achieving precise data distribution modeling.
@@ -62,15 +60,17 @@ Currently, I am a remote research intern with [**Prof. Yuzhang Shang**](https://
 
 <div class='research-item'>
   <div class='research-info'>
-    <h3><a href="https://www.ucf.edu/"><b>University of Central Florida (UCF)</b></a> – Research Intern <span class='period'>Mar. 2026 – Present</span></h3>
-    <p><b>Advisor</b>: <a href="https://42shawn.github.io/"><b>Prof. Yuzhang Shang</b></a> · Remote / Orlando, FL, USA</p>
+    <h3>University of Central Florida (UCF) – Research Intern <span class='period'>Mar. 2026 – Present</span></h3>
+    <p><b>Advisor</b>: <a href="https://42shawn.github.io/"><b>Prof. Yuzhang Shang</b></a></p>
+    <p class='location'>Remote / Orlando, FL, USA</p>
   </div>
 </div>
 
 <div class='research-item'>
   <div class='research-info'>
-    <h3><a href="http://www.scu.edu.cn/"><b>Sichuan University (SCU)</b></a> – Research Intern <span class='period'>Sep. 2024 – Present</span></h3>
-    <p><b>Advisor</b>: <a href="https://ithet1007.github.io/"><b>Prof. Tao He</b></a> · Onsite / Chengdu, China</p>
+    <h3>Sichuan University (SCU) – Research Intern <span class='period'>Sep. 2024 – Present</span></h3>
+    <p><b>Advisor</b>: <a href="https://ithet1007.github.io/"><b>Prof. Tao He</b></a></p>
+    <p class='location'>Onsite / Chengdu, China</p>
   </div>
 </div>
 
