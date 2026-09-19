@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a third-year Software Engineering undergraduate at [**Sichuan University (SCU)**](http://www.scu.edu.cn/). Under the supervision of [**Prof. Tao He**](https://ithet1007.github.io/), I previously investigated robust medical image segmentation, with a focus on **Ordinary Differential Equations (ODEs)** and **Test-Time Adaptation (TTA)**.
+I am a fourth-year Software Engineering undergraduate at [**Sichuan University (SCU)**](http://www.scu.edu.cn/). Under the supervision of [**Prof. Tao He**](https://ithet1007.github.io/), I previously investigated robust medical image segmentation, with a focus on **Ordinary Differential Equations (ODEs)** and **Test-Time Adaptation (TTA)**.
 
 Currently, I am a remote research intern with [**Prof. Yuzhang Shang**](https://42shawn.github.io/) at [**University of Central Florida (UCF)**](https://www.ucf.edu/), where my interests center on **Vision-Language-Action (VLA)** models, particularly on enhancing their reasoning and generation capabilities.
 
@@ -78,6 +78,9 @@ Currently, I am a remote research intern with [**Prof. Yuzhang Shang**](https://
 - *2023-2025* **Merit Student Award** (Consecutive 2 Years), Sichuan University. 
 - *2023--2024* **Second-class Comprehensive Academic Scholarship** (Top 6%), Sichuan University.
 - *2024--2025* **Third-class Comprehensive Academic Scholarship** (Top 15%), Sichuan University.
+
+# 🖋 Academic Service
+- Reviewer of **ICLR 2027**.
 
 ---
 > Thanks to [RayeRen](https://github.com/RayeRen/acad-homepage.github.io) for the template.
