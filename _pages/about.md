@@ -79,8 +79,6 @@ Currently, I am a remote research intern with [**Prof. Yuzhang Shang**](https://
 - *2023--2024* **Second-class Comprehensive Academic Scholarship** (Top 6%), Sichuan University.
 - *2024--2025* **Third-class Comprehensive Academic Scholarship** (Top 15%), Sichuan University.
 
----
-
 # 🖋 Academic Service
 - Reviewer of **ICLR 2027**.
 

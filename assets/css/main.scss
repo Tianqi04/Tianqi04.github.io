@@ -40,6 +40,31 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* smooth scrolling for nav anchors */
+html {
+    scroll-behavior: smooth;
+
+    @media (prefers-reduced-motion: reduce) {
+        scroll-behavior: auto;
+    }
+}
+
+.page__content {
+    /* GitHub-style separator attached to section headings */
+    h1 {
+        border-bottom: 1px solid $border-color;
+        padding-bottom: 0.35em;
+    }
+
+    /* soften the remaining (footer) divider */
+    hr {
+        border: 0;
+        height: 1px;
+        margin: 2.5em 0;
+        background-image: linear-gradient(to right, transparent, $border-color, transparent);
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -48,7 +73,7 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    
+
 
     .paper-box-image{
         justify-content: center;
@@ -57,7 +82,8 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
+            border-radius: 3px;
             object-fit: cover;
         }
     }
@@ -106,6 +132,7 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+    border-radius: 3px;
 }
 
 .research-item {
