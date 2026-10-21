@@ -60,7 +60,7 @@ Currently, I am a remote research intern with [**Prof. Yuzhang Shang**](https://
 
 <div class='research-item'>
   <div class='research-info'>
-    <h3>University of Central Florida (UCF) – Research Intern <span class='period'>Mar. 2026 – Present</span></h3>
+    <h3>University of Central Florida (UCF) – Research Intern <span class='period'>Mar. 2026 – Oct. 2026</span></h3>
     <p><b>Advisor</b>: <a href="https://42shawn.github.io/"><b>Prof. Yuzhang Shang</b></a></p>
     <p class='location'>Remote / Orlando, FL, USA</p>
   </div>
@@ -68,7 +68,7 @@ Currently, I am a remote research intern with [**Prof. Yuzhang Shang**](https://
 
 <div class='research-item'>
   <div class='research-info'>
-    <h3>Sichuan University (SCU) – Research Intern <span class='period'>Sep. 2024 – Present</span></h3>
+    <h3>Sichuan University (SCU) – Research Intern <span class='period'>Sep. 2024 – Sep. 2026</span></h3>
     <p><b>Advisor</b>: <a href="https://ithet1007.github.io/"><b>Prof. Tao He</b></a></p>
     <p class='location'>Onsite / Chengdu, China</p>
   </div>
