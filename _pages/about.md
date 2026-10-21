@@ -75,9 +75,10 @@ Currently, I am a remote research intern with [**Prof. Yuzhang Shang**](https://
 </div>
 
 # 🎖 Honors and Awards
-- *2023-2025* **Merit Student Award** (Consecutive 2 Years), Sichuan University. 
-- *2023--2024* **Second-class Comprehensive Academic Scholarship** (Top 6%), Sichuan University.
-- *2024--2025* **Third-class Comprehensive Academic Scholarship** (Top 15%), Sichuan University.
+- *2026* **Outstanding Graduate**, Sichuan University.
+- *2023--2026* **Outstanding Student Award** (Three Consecutive Years), Sichuan University.
+- *2023--2024* **Academic Excellence Scholarship** (Top 6%), Sichuan University.
+- *2024--2025* **Academic Excellence Scholarship** (Top 15%), Sichuan University.
 
 # 🖋 Academic Service
 - Reviewer of **ICLR 2027**.
