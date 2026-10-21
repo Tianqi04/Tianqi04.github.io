@@ -76,6 +76,7 @@ Currently, I am a remote research intern with [**Prof. Yuzhang Shang**](https://
 
 # 🎖 Honors and Awards
 - *2026* **Outstanding Graduate**, Sichuan University.
+- *2026* **Rising Star in Research Award**, College of Software Engineering, Sichuan University.
 - *2023--2026* **Outstanding Student Award** (Three Consecutive Years), Sichuan University.
 - *2023--2024* **Academic Excellence Scholarship** (Top 6%), Sichuan University.
 - *2024--2025* **Academic Excellence Scholarship** (Top 15%), Sichuan University.
